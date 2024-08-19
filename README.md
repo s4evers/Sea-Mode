@@ -4,7 +4,7 @@
 
 ## Демонстрация
 
-![Анимация Переключателя](https://github.com/s4evers/Sea-Mode/blob/main/ezgif-7-166d337c64.gif)  <!-- Добавьте ссылку на изображение или GIF, показывающий анимацию -->
+![Анимация Переключателя](https://github.com/s4evers/Sea-Mode/blob/main/ezgif-7-166d337c64.gif) 
 
 ## Возможности
 
@@ -31,3 +31,4 @@
 ```bash
 git clone https://github.com/s4evers/Sea-Mode.git
 
+[Telegram](https://t.me/Muhammedov) [Instagram](https://instagram.com/cs.mer6)
