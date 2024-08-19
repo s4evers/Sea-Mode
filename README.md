@@ -2,12 +2,9 @@
 
 Этот проект демонстрирует анимированный переключатель, созданный с использованием HTML и CSS. При переключении анимация включает плавание рыбки, покачивание лодки и вращение солнца в небе.
 
-[Смотрите видео с анимацией](https://github.com/s4evers/Sea-Mode/blob/main/animation.mp4)
+## Демонстрация
 
-<video width="640" height="480" controls>
-  <source src="https://github.com/s4evers/Sea-Mode/blob/main/animation.mp4" type="video/mp4">
-  Ваш браузер не поддерживает тег видео.
-</video>
+![Анимация Переключателя](https://github.com/s4evers/Sea-Mode/blob/main/animation.mp4)  <!-- Добавьте ссылку на изображение или GIF, показывающий анимацию -->
 
 ## Возможности
 
