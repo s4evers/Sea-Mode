@@ -1,5 +1,7 @@
 # Анимированный Переключатель с CSS и HTML
-
+> [!IMPORTANT]
+[2024 Jun 12] Binaries have been renamed w/ a `llama-` prefix. `main` is now `llama-cli`, `server` is `llama-server`, etc (https://github.com/ggerganov/llama.cpp/pull/7809)
+> 
 Этот проект демонстрирует анимированный переключатель, созданный с использованием HTML и CSS. При переключении анимация включает плавание рыбки, покачивание лодки и вращение солнца в небе.
 
 ## Демонстрация
