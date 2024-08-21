@@ -34,7 +34,7 @@ git clone https://github.com/s4evers/Sea-Mode.git
 ```
 [Telegram](https://t.me/Muhammedov) / [Instagram](https://instagram.com/cs.mer6)
 
- ## CONNECT WITH US :
+ ## Подписывайте:
 
 
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://instagram.com/cs.mer6)
