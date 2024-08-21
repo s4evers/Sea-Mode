@@ -32,7 +32,6 @@
 ```bash
 git clone https://github.com/s4evers/Sea-Mode.git
 ```
-[Telegram](https://t.me/Muhammedov) / [Instagram](https://instagram.com/cs.mer6)
 
  ## Подписывайте:
 
